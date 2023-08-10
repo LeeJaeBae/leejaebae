@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **LeeJaeBae/leejaebae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github.com/LeeJaeBae/leejaebae/blob/main/%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC.png" title="Header"/>
+<img src="https://github.com/LeeJaeBae/leejaebae/blob/main/profile.png" title="Header"/>
