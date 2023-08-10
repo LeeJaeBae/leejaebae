@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwony-love%2F&count_bg=%232177E3&title_bg=%232177E3&icon=linkedin.svg&icon_color=%23FFFFFF&title=LinkedIn&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+[![LeeJaeBae's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejaebae)](https://github.com/anuraghazra/github-readme-stats)
