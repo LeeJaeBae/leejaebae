@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github.com/LeeJaeBae/leejaebae/blob/main/profile.png" title="Header"/>
+<img src="https://github.com/LeeJaeBae/leejaebae/blob/main/profile.png" width="100%" title="Header"/>
