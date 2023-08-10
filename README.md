@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/LeeJaeBae/leejaebae/blob/main/profile.png" width="100%" title="Header"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJaeBae&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwony-love%2F&count_bg=%23FFFFFF&title_bg=%232177E3&icon=linkedin.svg&icon_color=%23E7E7E7&title=LinkedIn&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwony-love%2F&count_bg=%232177E3&title_bg=%232177E3&icon=linkedin.svg&icon_color=%23FFFFFF&title=LinkedIn&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
