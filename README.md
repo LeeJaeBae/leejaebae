@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./배경.png" title="Header"/>
+
+
+
+<img src="https://github.com/LeeJaeBae/leejaebae/blob/main/%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC.png" title="Header"/>
