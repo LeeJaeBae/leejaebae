@@ -3,12 +3,12 @@
 
 <!-- 프로필 방문자 카운터 -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/leejaebae/count.svg?" />
+  <img src="https://komarev.com/ghpvc/?username=leejaebae&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="leejaebae" />
 </div>
 
 <!-- 타이핑 애니메이션 소개 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=Hi+👋+I'm+Jaewon+Lee;A+Passionate+Full+Stack+Developer+from+Korea+🇰🇷;Building+the+Future+with+Code+and+Creativity+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Jaewon+Lee;Full+Stack+Developer+from+Korea+%F0%9F%87%B0%F0%9F%87%B7;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- 소셜 미디어 배지 -->
