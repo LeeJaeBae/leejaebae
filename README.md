@@ -4,7 +4,7 @@
 <!-- 프로필 방문자 카운터 -->
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=leejaebae&color=6AD3F5&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Visitor Count](https://profile-counter.glitch.me/leejaebae/count.svg)
   
 </div>
 
