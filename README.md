@@ -1,10 +1,11 @@
 <!-- 애니메이션 헤더 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=280&section=header&text=Welcome%20to%20Jaewon's%20Universe%20🌌&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Creative%20Coder%20|%20World%20Lover&descAlignY=50&descAlign=50&animation=twinkling"/>
 
-<!-- 프로필 방문자 카운터 -->
+<!-- 배지 컬렉션 -->
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/leejaebae/count.svg)
+  ![GitHub followers](https://img.shields.io/github/followers/leejaebae?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6AD3F5)
+  ![GitHub User's stars](https://img.shields.io/github/stars/leejaebae?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6AD3F5)
   
 </div>
 
