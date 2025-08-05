@@ -3,7 +3,9 @@
 
 <!-- 프로필 방문자 카운터 -->
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejaebae%2Fleejaebae&count_bg=%236AD3F5&title_bg=%230D1117&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" alt="Profile Views" />
+  
+  ![](https://komarev.com/ghpvc/?username=leejaebae&color=6AD3F5&style=for-the-badge&label=PROFILE+VIEWS)
+  
 </div>
 
 <!-- 타이핑 애니메이션 소개 -->
